@@ -1,2 +1,12 @@
 * Teapook Event register dashboard 茶舖客活動註冊版
 
+** 活動名單 event list  
+   
+*** 淡江開源社 
+
+*** 厭世學生們的取暖小聚 
+
+*** Friday Board game tea bear fireside party 星期五桌遊茶啤酒爐邊聚會 
+
+*** wendsday Lin Day Peek Pool Teapook language culture exchange teaparty 星期三 林得痞乓 茶舖客 語言文化交流茶會 
+
